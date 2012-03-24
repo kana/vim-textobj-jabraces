@@ -1,6 +1,6 @@
 *textobj-jabraces.txt*	Text objects for Japanese braces
 
-Version 0.1.1
+Version 0.1.2
 Script ID: 2276
 Copyright (C) 2008 kana <http://whileimautomaton.net/>
 License: MIT license  {{{
@@ -167,6 +167,10 @@ BUGS						*textobj-jabraces-bugs*
 
 ==============================================================================
 CHANGELOG					*textobj-jabraces-changelog*
+
+0.1.2	2012-03-24T14:50:01+09:00	    *textobj-jabraces-changelog-0.1.2*
+	- Refine the document a bit.
+	- Refine the internal structure a bit.
 
 0.1.1	2008-06-11T22:12:16+09:00	    *textobj-jabraces-changelog-0.1.1*
 	- Modify to use textobj-user version 0.3.3 or later.
